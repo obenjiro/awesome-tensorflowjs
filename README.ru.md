@@ -10,8 +10,8 @@ TensorFlowJS - это  библиотека с открытым исходным
 
 ## Языки
 
-[English](https://github.com/obenjiro/awesome-tensorflowjs/README.md), 
-[Русский](https://github.com/obenjiro/awesome-tensorflowjs/README.ru.md)
+[English](https://github.com/obenjiro/awesome-tensorflowjs/blob/master/README.md), 
+[Русский](https://github.com/obenjiro/awesome-tensorflowjs/blob/master/README.ru.md)
 
 ## Краткое содержание
 
