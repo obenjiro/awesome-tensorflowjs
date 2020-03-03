@@ -40,6 +40,13 @@ More info [here](https://www.tensorflow.org/js).
 * [Reddit](https://www.reddit.com/r/TensorFlowJS)
 * [Telegram](https://t.me/tensorflow_js)
 
+
+<a name="github-tutorials" />
+
+## Tutorials
+
+* TBD
+
 <a name="github-projects" />
 
 ## Models/Projects
@@ -87,11 +94,8 @@ TensorFlow.js: Machine Learning for the Web and Beyond](https://arxiv.org/abs/19
 
 <a name="blogs" />
 
-## Official announcements
-
-* TBD
-
 ## Blog posts
+
 * TBD
 
 <a name="books" />
