@@ -34,11 +34,12 @@ TensorFlowJS - это  библиотека с открытым исходным
 
 ## Community
 
+* [Telegram](https://t.me/tensorflow_js)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/tensorflow.js)
 * [#MadeWithTFJS on Twitter](https://twitter.com/search?q=%23MadeWithTFJS)
 * [@TensorFlow on Twitter](https://twitter.com/tensorflow)
 * [Reddit](https://www.reddit.com/r/TensorFlowJS)
-* [Telegram](https://t.me/tensorflow_js)
+
 
 <a name="github-tutorials" />
 
